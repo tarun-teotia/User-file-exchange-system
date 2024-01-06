@@ -1,0 +1,1 @@
+This project aims at creating a file exchange system with 2 types of users. One, an Ops user which can only upload files and another, a client user, which can download and view the uploaded files. Uses django framework with sqlite3 as database.
